@@ -1,10 +1,7 @@
-# Archive Notice
 
-## This repository is "temporarily archived" due to the new encryption and I am currently not in a stable mental state to actively maintain or work on it.
 
-## Thank you for your understanding. I hope to return to this project soon.
-
-## In the meanwhile, join https://discord.gg/lethe for further news and an alternative private server solution.
+# WARNING
+YOU WILL 99.99% GET BANNED FOR USING FURINALC, PROJECT MOON HAS ADDED A DETECTION FOR PRIVATE SERVER PLAYERS, IT IS RECOMMENDED THAT YOU WAIT FOR THE NEWEST VERSION OF THE ALTERNATIVE & BETTER PRIVATE SERVER [LETHE](https://lethelc.site) AS IT WILL BE ABLE TO BYPASS THE DETECTION. HOWEVER, IF YOU ARE ALREADY BANNED IN THE FIRST PLACE, OR IF YOU DON'T CARE ABOUT GETTING BANNED, ENJOY FURINALC!
 
 -- --
 
